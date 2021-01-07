@@ -1,0 +1,5 @@
+&BTFORCING_PARM01
+ btforcingTideFreq=1.40752e-04,
+ btforcingTideAmp=2.50000e-02,
+ btforcingU0=1.00000e-01,
+/
